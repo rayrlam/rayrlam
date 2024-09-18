@@ -7,12 +7,14 @@ Here on GitHub, you'll find a variety of projects showcasing my skills in PHP, J
 
 ![Codewars Badge](https://www.codewars.com/users/ray.lam/badges/large)
 ## Codewars Profile Description
-Member Since: February 2016
-Rank: 4 kyu
-Honor: 1,111
-Leaderboard Position: #26,575
-Honor Percentile: Top 4.014%
-Total Completed Kata: 272
+- Member Since: February 2016
+- Rank: 4 kyu
+- Honor: 1,111
+- Leaderboard Position: #26,575
+- Honor Percentile: Top 4.014%
+- Total Completed Kata: 272
+
+![Codewars Status](https://raw.githubusercontent.com/rayrlam/rayrlam/main/codewars.png)
 
 I have been passionate about coding since I joined Codewars in February 2016. With a current rank of 4 kyu and over 1,111 honor points, I've completed 272 kata, showcasing my commitment to honing my skills. I enjoy solving a variety of challenges and puzzles that push my programming abilities to new heights.
 
