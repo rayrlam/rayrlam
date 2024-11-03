@@ -5,8 +5,11 @@ Currently, I’m a Full Stack Developer at LiveBuzz, where I build online regist
 
 Here on GitHub, you'll find a variety of projects showcasing my skills in PHP, JavaScript, React.js, and more. I’ve also included a testing playground that highlights my focus on quality assurance and test-driven development. I take pride in crafting dynamic web applications that offer seamless functionality with great user experiences across different platforms.
 
-![Codewars Badge](https://www.codewars.com/users/ray.lam/badges/large)
+
 ## Codewars Profile Description
+
+![Codewars Badge](https://www.codewars.com/users/ray.lam/badges/large)
+
 - Member Since: February 2016
 - Rank: 4 kyu
 - Honor: 1,111
